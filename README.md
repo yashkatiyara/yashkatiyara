@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- Cybersecurity profile with Matrix Rain Animation for yashkatiyara -->
 
-<!--
-**yashkatiyara/yashkatiyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh1919/masterMatrix/master/matrix.gif" width="600" alt="Matrix Rain Animation">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">👾 yashkatiyara | Cybersecurity Enthusiast 👾</h1>
+<p align="center">
+  <i>Defending the digital world, one byte at a time.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ About Me
+
+- 💡 Passionate about cybersecurity, ethical hacking, penetration testing, and digital forensics.
+- 🧑‍💻 Always exploring the latest in threat intelligence and cyber defense.
+- 🎨 Creativity meets code: I love blending tech skills with visual flair.
+- 🕶️ Inspired by the Matrix—see the digital rain above? That's my cyber vibe.
+
+---
+
+## 🚀 Skills
+
+- Penetration Testing & Vulnerability Assessment
+- Network Security & SOC Operations
+- Python, Bash, Linux
+- SIEM, IDS/IPS, Firewalls
+- Digital Forensics & Incident Response
+- Malware Analysis & Reverse Engineering
+
+---
+
+## 🔥 Featured Projects
+
+- **[Cyber-Matrix](https://github.com/yashkatiyara/Cyber-Matrix)**  
+  Custom Matrix rain animation—cyberpunk meets open source.
+- **[Pentest Toolkit](https://github.com/yashkatiyara/Pentest-Toolkit)**  
+  A collection of scripts and tools for penetration testers.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- [ ] CEH (Certified Ethical Hacker)
+- [ ] OSCP (Offensive Security Certified Professional)
+- More coming soon!
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yashkatiyara)
+- [Twitter](https://twitter.com/yashkatiyara)
+- [Portfolio/Blog](https://yashkatiyara.github.io)
+
+---
+
+## 💬 Motto
+
+> “There’s no patch for human stupidity, but I’m working on it.”
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=440&lines=Welcome+to+the+Matrix;Cybersecurity+is+my+Domain;Hack+the+Planet!" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- For more animations, try using SVG or GIFs hosted on your repo or use shields.io for dynamic badges. -->
