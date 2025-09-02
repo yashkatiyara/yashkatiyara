@@ -23,27 +23,15 @@
 ## 🚀 Skills
 
 - Penetration Testing & Vulnerability Assessment
-- Network Security & SOC Operations
-- Python, Bash, Linux
-- SIEM, IDS/IPS, Firewalls
-- Digital Forensics & Incident Response
-- Malware Analysis & Reverse Engineering
+- Network Security
+- Linux
 
 ---
-
-## 🔥 Featured Projects
-
-- **[Cyber-Matrix](https://github.com/yashkatiyara/Cyber-Matrix)**  
-  Custom Matrix rain animation—cyberpunk meets open source.
-- **[Pentest Toolkit](https://github.com/yashkatiyara/Pentest-Toolkit)**  
-  A collection of scripts and tools for penetration testers.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- [ ] CEH (Certified Ethical Hacker)
-- [ ] OSCP (Offensive Security Certified Professional)
 - More coming soon!
 
 ---
